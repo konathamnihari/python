@@ -29,3 +29,12 @@ print(range(e))
 fruits=frozenset({"apple","orange","banana"})
 print(fruits)
 
+def add():
+    price=800
+    
+print(add())
+
+enames=["rahul", "sonia", "priyanka"]
+print(enames[0])
+for ename in enames:
+    print(ename)
