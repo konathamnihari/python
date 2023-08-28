@@ -1,17 +1,7 @@
-# single line comment
-'''
-line1
-line2
-line3
-'''
-import math
-
-id=101
-ename="Nihari"
-
-def add():
-    pass
-
-class Emp:
-    pass
-
+#argv-module
+from sys import argv
+print(argv)
+print(argv[0])
+print(argv[1])
+print(argv[2])
+print(argv[3])
