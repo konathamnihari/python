@@ -1,0 +1,25 @@
+'''
+LIST-DS
+-------
+CREATE:
+       list()
+       eval()
+       split()
+       copy()
+READ:
+      len()
+      count()
+      index()
+      sort()
+      sort(reverse)
+UPDATE:
+      append()
+      insert()
+      extend()
+DELETE:
+       remove()
+       pop()
+       del()
+       clear()
+      
+'''
